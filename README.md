@@ -1,6 +1,4 @@
 # inboxtiger-resources
-Repository name: inboxtiger-resources Description: Practical guides to customer support workflows, website chat, and email helpdesk integrations. Visibility: Public Add README: On
-# InboxTiger Resources
 
 Practical resources for businesses and developers working with customer support, website chat, and email helpdesk workflows.
 

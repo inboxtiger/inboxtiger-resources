@@ -6,6 +6,10 @@ Practical resources for businesses and developers working with customer support,
 
 ## Guides and Resources
 
+## Published Guides
+
+- [Shared Inbox Best Practices for Customer Support Teams](guides/shared-inbox-best-practices.md)
+
 This repository is intended to provide useful, actionable information about managing customer conversations and improving support operations.
 
 Planned topics include:
